@@ -1,0 +1,12 @@
+Source: sax
+Section: utils
+Priority: optional
+Maintainer: Satya <eternals.satya@gmail.com>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.5.0
+
+Package: sax
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3
+Description: SaX Language for Web Testing
+ SaX is a language designed for advanced web testing, including DDoS, flood, and other heavy tests.
