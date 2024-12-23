@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+echo "Removing SaX..."
+# Remove the alias and other configurations if necessary
+sed -i '/alias sax/d' /etc/bash.bashrc
