@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+echo "SaX installed successfully."
+# Set alias to use 'sax' command globally
+echo "alias sax='/usr/bin/sax'" >> /etc/bash.bashrc
