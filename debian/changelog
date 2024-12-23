@@ -1,5 +1,6 @@
-SaX (1.0.0) unstable; urgency=high
+SaX (1.0.0) unstable; urgency=low
 
-  * Initial release.
+  * Initial release with basic modules: flood, eternals, and col1.
+  * Added SaX command for installing and testing modules.
 
- -- Satya <eternals.satya@example.com>  Fri, 23 Dec 2024 10:00:00 +0000
+ -- Satya <eternals.satya@example.com>  Sun, 24 Dec 2024 12:00:00 +0000
