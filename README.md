@@ -9,5 +9,5 @@ SaX adalah bahasa pemrograman baru yang dirancang untuk kesederhanaan dan kecepa
 Clone repositori SaX menggunakan git:
 
 ```bash
-git clone https://github.com/username/SaX.git
+git clone https://github.com/eternals-satya/SaX.git
 cd SaX
