@@ -1,10 +1,13 @@
-# SaX Language for Web Testing
+# SaX Programming Language
 
-SaX is a powerful language designed for web testing, including flood, DDoS, vulnerability testing, and heavy tests like Eternals.
+SaX adalah bahasa pemrograman baru yang dirancang untuk kesederhanaan dan kecepatan. Untuk menginstal dan menggunakan SaX, ikuti langkah-langkah berikut.
 
-## Installation
+## Instalasi
 
-To install SaX, simply run:
+### 1. Clone Repositori
+
+Clone repositori SaX menggunakan git:
 
 ```bash
-sudo apt install sax
+git clone https://github.com/username/SaX.git
+cd SaX
