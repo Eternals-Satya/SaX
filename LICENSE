@@ -1,8 +1,0 @@
-
-### 6. **Membuat Paket Debian**
-
-Setelah menyiapkan semua file, Anda perlu membuat paket Debian agar bisa diinstal dengan **APT**. Pastikan Anda telah menginstal **Debian packaging tools**.
-
-1. **Install Build Tools:**
-   ```bash
-   sudo apt-get install build-essential debhelper
